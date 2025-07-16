@@ -22,7 +22,8 @@ staff booking
 
 
 booking option
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d2109e4-8146-42d0-b561-a44e7b11158b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8d2d7cf-3113-46f0-a6ad-871d82658a2f" />
+
 
 
 booking time

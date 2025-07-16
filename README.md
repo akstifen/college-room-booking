@@ -27,12 +27,13 @@ booking option
 
 
 booking time
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2a23900-ddb0-4bf7-8016-9f13a8493737" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86ec83bb-595b-4e42-9ddc-81836e96ca6c" />
 
 
 admin board
 1)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c707529b-24c8-4d7e-9a97-31c2215305cb" />
-2)![Uploading image.png…]()
+2) <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10b8f668-e2e0-4ae6-8d89-ce9362e4c056" />
+
 
 
 

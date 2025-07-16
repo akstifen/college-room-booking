@@ -31,7 +31,8 @@ booking time
 
 
 admin board
-1)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c707529b-24c8-4d7e-9a97-31c2215305cb" />
+1)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d9e4df53-fb82-40d9-b9c2-5ada4f1d898e" />
+
 2) <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10b8f668-e2e0-4ae6-8d89-ce9362e4c056" />
 
 
